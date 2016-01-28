@@ -1,0 +1,7 @@
+name: test-app
+summary: App to test elnode webserver.
+maintainer: Katherine Cox-Buday <cox.katherine.e@gmail.com>
+description: |
+  Need something to test my layer.
+tags:
+  - test
